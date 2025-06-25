@@ -29,15 +29,9 @@ Tem três páginas: Home, Sobre e Contato, todas usando um layout compartilhado 
 3. Rode `npm run dev` para iniciar o servidor local  
 4. Abra `http://localhost:3000` no navegador
 
-## Próximos passos
-
-- Validar e conectar o formulário de contato  
-- Tornar o site responsivo  
-- Adicionar modo claro/escuro  
-- Melhorar estilos e animações
 
 ---
 
-Feito com Next.js por Macena!  
+Feito com Next.js por Julia Macena🎀!  
 
 
